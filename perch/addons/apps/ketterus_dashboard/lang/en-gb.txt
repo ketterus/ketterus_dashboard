@@ -1,0 +1,13 @@
+{
+    "lang": "en-gb",
+    "Dashboard": "Dashboard",
+    "Members (Active)": "Members (Active)",
+    "Most Recent Members": "Most Recent Members",
+    "ALL": "ALL",
+    "Members": "Members",
+    "Listing Active Members": "Listing Active Members",
+    "Member Name": "Member Name",
+    "Created": "Created",
+    "Page %s of %s": "Page %s of %s",
+    "Next": "Next"
+}
